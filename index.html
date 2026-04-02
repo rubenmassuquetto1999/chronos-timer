@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cronometro</title>
+    <link rel="shortcut icon" href="./assets/cronomentro.png" type="image/png">   
+</head>
+<body>
+    <main class="cronometro-container">
+        <div class="display">
+            <h1><span id="tempo">00:00:00</span><span id="milissegundos">.00</span></h1>
+        </div>
+
+        <div class="controles">
+            <button id="btn-voltas">Voltas</button>
+            <button id="btn-iniciar">Iniciar</button>
+            <button id="btn-resetar">Resetar</button>
+        </div>
+
+        <div class="historico-voltas">
+            <h3>Voltas Recentes</h3>
+            <ul id="lista-voltas">
+
+            </ul>
+        </div>
+    </main>
+
+    <script src="./script.js"></script>
+</body>
+</html>
