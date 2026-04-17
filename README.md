@@ -30,9 +30,3 @@ Durante o desenvolvimento, foram aplicados conceitos importantes como:
 1. **Precisão de Tempo:** A diferença entre usar apenas um contador simples e calcular a diferença entre datas (`Date.now()`) para evitar atrasos no loop.
 2. **Gestão de Estado:** Controle de variáveis booleanas (ex: `rodando`) para ditar o comportamento da interface.
 3. **Manipulação Dinâmica:** Criação e inserção de elementos no HTML via JavaScript para o histórico de voltas.
-
-## 📂 Como executar o projeto
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
