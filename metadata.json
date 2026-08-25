@@ -1,0 +1,8 @@
+{
+  "name": "Cronômetro",
+  "description": "Um cronômetro de precisão moderno com registro e histórico de voltas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
